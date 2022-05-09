@@ -1,0 +1,23 @@
+{
+  "name": "midtrans-simulator-cli",
+  "version": "1.0.0",
+  "description": "This tools will help developers for testing on midtrans simulator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wfajriansyah/midtrans-simulator-cli.git"
+  },
+  "author": "Wildan Fajriansyah <wfajriansyah@sikuder.dev>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wfajriansyah/midtrans-simulator-cli/issues"
+  },
+  "homepage": "https://github.com/wfajriansyah/midtrans-simulator-cli#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "string": "^3.3.3"
+  }
+}
